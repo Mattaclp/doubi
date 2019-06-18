@@ -172,7 +172,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Mattaclp/doubi/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
 ```
 
 ---
@@ -184,7 +184,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/mtproxy_go.sh && chmod +x mtproxy_go.sh && bash mtproxy_go.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Mattaclp/doubi/master/mtproxy_go.sh && chmod +x mtproxy_go.sh && bash mtproxy_go.sh
 ```
 
 ---
@@ -262,7 +262,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/aria2.sh && chmod +x aria2.sh && bash aria2.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Mattaclp/doubi/master/aria2.sh && chmod +x aria2.sh && bash aria2.sh
 ```
 
 ---
@@ -288,7 +288,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/pserver.sh && chmod +x pserver.sh && bash pserver.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Mattaclp/doubi/master/pserver.sh && chmod +x pserver.sh && bash pserver.sh
 ```
 
 ---
@@ -303,7 +303,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Mattaclp/doubi/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
 ```
 
 ---
@@ -354,7 +354,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Mattaclp/doubi/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
 ```
 
 ---
@@ -384,7 +384,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Mattaclp/doubi/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
  # 安装插件：
  bash caddy_install.sh xxx,xxx
   # 例如同时安装 http.filemanager 和 http.webdav插件：
@@ -418,7 +418,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/adbyby.sh && chmod +x adbyby.sh && bash adbyby.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Mattaclp/doubi/master/adbyby.sh && chmod +x adbyby.sh && bash adbyby.sh
 ```
 
 ## gfw_push.sh
